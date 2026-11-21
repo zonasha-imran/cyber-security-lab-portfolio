@@ -1,0 +1,6 @@
+*.env
+*.key
+id_ed25519
+secrets.txt
+*.pcap
+__pycache__/
